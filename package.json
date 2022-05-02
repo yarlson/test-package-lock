@@ -1,0 +1,19 @@
+{
+  "name": "@yarlson/test-package-lock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yarlson/test-package-lock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yarlson/test-package-lock/issues"
+  },
+  "homepage": "https://github.com/yarlson/test-package-lock#readme"
+}
